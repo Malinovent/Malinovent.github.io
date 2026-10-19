@@ -1,7 +1,6 @@
 # Jean-Philippe Provost — portfolio
 
-Single-page portfolio, hosted with GitHub Pages.
+Single-page portfolio hosted with GitHub Pages at https://malinovent.github.io
 
-Files:
-- `index.html` — the whole site
-- `Jean-Philippe-Provost-CV.pdf` — add this (export the CV doc as PDF and drop it here)
+- `index.html` — the site
+- `Jean-Philippe-Provost-CV.pdf` — CV linked from the site
